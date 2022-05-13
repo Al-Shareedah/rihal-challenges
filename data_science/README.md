@@ -1,3 +1,6 @@
+# My submission
+In this forked repository, I have uploaded Rihal Challenge.ipynb which contains the analysis of the included dataset. Some of the steps applied include: Data cleaning, exploratory analysis, categorical encoding, feature selection, and performance comparison of four regression models
+Each step was explained properly and different visualization plots were utilized to infer insights that would otherwise be unknown.
 # Job Requirements (Data Scientists)
 We are looking for data scientists and machine learning engineers who enjoy analyzing data, exercise critical thinking and know how to link between business requirements and the corresponding technical requirements when building a machine learning project. The ideal candidate will already have a programming foundation establised by learning topics such as data structures, algorithms, and have already worked on programming projects, whether software or data science projects. 
 
